@@ -1,0 +1,7 @@
+id,text,sent_compound,sent_label,sent_neg,sent_neu,sent_pos
+1,"I love the new phone update, it's so smooth and fast!",0.6696,POSITIVE,0.0,0.69,0.31
+2,This app keeps crashing. I'm really annoyed.,-0.4391,NEGATIVE,0.325,0.675,0.0
+3,"The service was okay, nothing special but not bad either.",0.5568,POSITIVE,0.118,0.505,0.377
+4,"Absolutely fantastic customer support, they solved my issue in minutes.",0.8384,POSITIVE,0.0,0.439,0.561
+5,I'm disappointed with the recent changes. It used to be much better.,-0.0516,NEGATIVE,0.194,0.625,0.181
+6,"Not sure what to think, some features are good, some are confusing.",0.0098,NEUTRAL,0.245,0.571,0.184
